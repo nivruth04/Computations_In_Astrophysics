@@ -2,7 +2,7 @@
 
 # Problem Statement:
 
-A test object is at rest at a distance of \r_0 = 1 AU ( ~ 1.5e11 metres) from the centre of a star of mass M = 2e30 kilograms and radius R = 6.957e8 metres. This object is set to fall freely from this distance towards the star under the effect of the star's gravitational force. The variation of the distance and the free-fall velocity over time is to be determined until the object hits the stellar surface. 
+A test object is at rest at a distance of r_0 = 1 AU ( ~ 1.5e11 metres) from the centre of a star of mass M = 2e30 kilograms and radius R = 6.957e8 metres. This object is set to fall freely from this distance towards the star under the effect of the star's gravitational force. The variation of the distance and the free-fall velocity over time is to be determined until the object hits the stellar surface. 
 
 # Methodology:
 
