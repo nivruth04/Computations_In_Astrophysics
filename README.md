@@ -4,7 +4,7 @@ A collection of computational problems in astrophysics solved numerically using 
 
 # Motivation 
 
-As a mechanical engineering undergraduate, I am self-learning astrophysics using online resources. This repository documents some of the common computational problems in astrophysics and their solutions determined using MATLAB software.
+As a mechanical engineering undergraduate, I am self-learning astrophysics using online resources. This repository documents some of the fucndamental computational problems in astrophysics and their solutions determined using MATLAB software.
 
 # Problems Documented
 
