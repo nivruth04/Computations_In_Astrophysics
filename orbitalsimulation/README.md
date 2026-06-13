@@ -28,4 +28,5 @@ Initial orbital velocity: 29,780 m/s
 
 Energy conservation verified - no orbital drift observed
 
-<img width="1236" height="780" alt="image" src="https://github.com/user-attachments/assets/1450d497-91e9-46aa-b69b-e6a58baa81b4" />
+<img width="1217" height="785" alt="image" src="https://github.com/user-attachments/assets/e49a710d-ca6c-4bda-81af-73a06f6a7d2d" />
+
